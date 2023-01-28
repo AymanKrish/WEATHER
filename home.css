@@ -1,0 +1,22 @@
+body{
+    background-image: url(./IMAGES/img1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  
+.div1{
+    background: rgb(247, 205, 237, 0.3);
+    width: 60vh;
+    height: 22vh;
+    overflow: hidden;
+}
+
+#result{
+    background: rgba(247, 205, 237, 0.3);
+    backdrop-filter: blur(-50px);
+    width: 60vh;
+    margin: 100px auto;
+    /* background-color: rgb(247, 205, 237); */
+    border-radius: 20px;
+    color: rgb(14, 12, 12);
+}
