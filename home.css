@@ -2,12 +2,13 @@ body{
     background-image: url(./IMAGES/img1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    /* background: fixed; */
 }
   
 .div1{
     background: rgb(247, 205, 237, 0.3);
     width: 60vh;
-    height: 22vh;
+    /* height: 22vh; */
     overflow: hidden;
 }
 
