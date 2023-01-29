@@ -3,6 +3,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     /* background: fixed; */
+    height: 200vh;
+    overflow: hidden;
+    background-position: top center;    
 }
   
 .div1{
